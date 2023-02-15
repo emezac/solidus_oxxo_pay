@@ -35,7 +35,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'conekta'
   s.add_dependency 'deface', '~> 1.0'
-  s.add_dependency 'solidus_core', solidus_version
+  s.add_dependency 'solidus_core'
   s.add_dependency 'solidus_support', '~> 0.5'
 
   s.add_development_dependency 'solidus_backend', solidus_version
